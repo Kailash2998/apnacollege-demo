@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my demo repository.
 <br>
-author : prathamesh shirsath
+author : prathamesh shirsath (dhule)
